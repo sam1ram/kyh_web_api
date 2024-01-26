@@ -34,6 +34,6 @@ jobs:
           environment_name: Calculatorapi-env
           version_label: ${{github.run_id}}
           region: eu-east-1
-          deployment_package: site.zip
+          deployment_package: new-site.zip
 
 
